@@ -1,0 +1,18 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: black;
+  color: azure;
+}
+.container {
+  border: 2px solid rgb(225, 14, 140);
+  padding: 15px;
+  border-radius: 10px;
+  width: 900px;
+  height: auto;
+  background-color: cadetblue;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+}

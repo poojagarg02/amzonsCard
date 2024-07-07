@@ -1,0 +1,6 @@
+.border{
+  border :4px solid rgb(237, 27, 167);
+  border-radius:10px;
+  background-color: burlywood;
+  color: black;
+}
